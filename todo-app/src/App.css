@@ -1,0 +1,16 @@
+/*
+
+#282c34
+#61dafb - mavi
+
+*/
+
+.wrapper {
+  max-width: 750px;
+  padding: 20px;
+  margin: 100px auto 0 auto;
+}
+
+.wrapper h2 {
+  text-align: center;
+}
